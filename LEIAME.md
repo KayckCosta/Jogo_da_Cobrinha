@@ -1,0 +1,15 @@
+Este é um projeto desenvolvido pelo nosso grupo para uma atividade acadêmica na Universidade Estadual do Piauí (UESPI). Nos organizamos para criar uma versão do clássico jogo da cobrinha, aplicando conceitos aprendidos em sala de aula.
+
+Contato:
+
+https://github.com/KayckCosta
+
+https://github.com/eduvilanova06
+
+https://github.com/GuigoOGuinho
+
+
+
+Para a compilação do código do jogo no sistema operacional windows, basta instalar a biblioteca "Raylib" e utilizar o seguinte comando no terminal:
+
+gcc main.c -o JogoCobrinha -Iraylib/src -Lraylib/build/raylib -lraylib -lopengl32 -lgdi32 -lwinmm
