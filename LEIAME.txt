@@ -8,7 +8,7 @@ https://github.com/eduvilanova06
 
 https://github.com/GuigoOGuinho
 
-
+http://github.com/Diegokauerley
 
 Para a compilação do código do jogo no sistema operacional windows, basta instalar a biblioteca "Raylib" e utilizar o seguinte comando no terminal:
 
